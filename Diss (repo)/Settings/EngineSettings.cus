@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings version="5.7.0.0">
+  <DataExchangeSettings_LastHunterUpdateCheckRecordVersion_1>192</DataExchangeSettings_LastHunterUpdateCheckRecordVersion_1>
+  <DataExchangeSettings_WebProxy_1>{"Expect100Continue":true,"ProxyType":2,"Host":null,"Password":null,"Port":null,"UserName":null}</DataExchangeSettings_WebProxy_1>
+  <GeneralSettings_KnownProjects_1>[{"ProjectType":0,"Name":"Diss (repo)","ConnectionString":"D:\\Diss\\citavi\\Diss (repo)\\Diss (repo).ctv5","ColorSchemeIdentifier":5}]</GeneralSettings_KnownProjects_1>
+  <GeneralSettings_Initials_1>Jbuettner</GeneralSettings_Initials_1>
+  <GeneralSettings_UICulture_1>de</GeneralSettings_UICulture_1>
+  <SyndicationFeedSettings_Feeds_1>[]</SyndicationFeedSettings_Feeds_1>
+  <SyndicationFeedSettings_ReadEntries_1>[]</SyndicationFeedSettings_ReadEntries_1>
+  <LocationSettings_EntryPoints_1>[]</LocationSettings_EntryPoints_1>
+</Settings>
