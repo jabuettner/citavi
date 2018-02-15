@@ -7,5 +7,5 @@
   <GeneralSettings_UICulture_1>de</GeneralSettings_UICulture_1>
   <SyndicationFeedSettings_Feeds_1>[]</SyndicationFeedSettings_Feeds_1>
   <SyndicationFeedSettings_ReadEntries_1>[]</SyndicationFeedSettings_ReadEntries_1>
-  <LocationSettings_EntryPoints_1>[]</LocationSettings_EntryPoints_1>
+  <LocationSettings_EntryPoints_1>[{"LocationId":"8d9c23d4-6431-4ea5-bed2-0cdb489d31a7","Page":14,"PageViewMode":1,"X":36.0,"Y":644.44992993153755,"Zoom":2.1676301220928211}]</LocationSettings_EntryPoints_1>
 </Settings>
