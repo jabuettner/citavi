@@ -8,4 +8,5 @@
   <SyndicationFeedSettings_Feeds_1>[]</SyndicationFeedSettings_Feeds_1>
   <SyndicationFeedSettings_ReadEntries_1>[]</SyndicationFeedSettings_ReadEntries_1>
   <LocationSettings_EntryPoints_1>[]</LocationSettings_EntryPoints_1>
+  <DataExchangeSettings_SavedDataExchangeProperties_1>[]</DataExchangeSettings_SavedDataExchangeProperties_1>
 </Settings>
